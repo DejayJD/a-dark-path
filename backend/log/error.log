@@ -1,0 +1,20 @@
+2018-06-01T19:13:43.834Z - ERROR: Cannot read property 'getTime' of undefined 
+2018-06-01T19:19:41.257Z - ERROR: (intermediate value).now is not a function 
+2018-06-01T20:35:01.329Z - ERROR: params is not defined 
+2018-06-01T20:35:15.990Z - ERROR: params is not defined 
+2018-06-01T20:35:30.082Z - ERROR: params is not defined 
+2018-06-01T20:36:29.129Z - ERROR: params is not defined 
+2018-06-01T20:37:24.432Z - ERROR: params is not defined 
+2018-06-01T20:37:41.879Z - ERROR: params is not defined 
+2018-06-01T20:40:32.798Z - ERROR: params is not defined 
+2018-06-01T20:41:17.208Z - ERROR: params is not defined 
+2018-06-02T23:32:20.719Z - ERROR: Cannot read property 'trim' of undefined 
+2018-06-02T23:32:39.767Z - ERROR: Cannot read property 'trim' of undefined 
+2018-06-02T23:34:10.320Z - ERROR: getCurrentDirectory(...).map is not a function 
+2018-06-02T23:37:48.485Z - ERROR: Identifier 'directory' has already been declared 
+2018-06-02T23:38:23.178Z - ERROR: directory.map is not a function 
+2018-06-02T23:39:36.905Z - ERROR: directory.map is not a function 
+2018-06-02T23:41:11.100Z - ERROR: directory.map is not a function 
+2018-06-03T03:28:27.396Z - ERROR: currentDirectory.map is not a function 
+2018-06-03T06:44:15.296Z - ERROR: heh is not a function 
+2018-06-03T06:45:26.710Z - ERROR: heh is not a function 
